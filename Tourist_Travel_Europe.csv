@@ -10,13 +10,6 @@ Tourist_ID,Country_Visited,City_Visited,Mode_of_Travel,Travel_Duration_Days,Numb
 9,Portugal,Faro,Bus,11,4,2947,Camping,Leisure,Winter
 10,UK,Manchester,Flight,17,3,2099,Hostel,Business,Summer
 11,Portugal,Lisbon,Flight,4,5,4090,Hostel,Business,Summer
-12,Greece,Athens,Flight,8,5,3088,Airbnb,Family Visit,Spring
-13,Spain,Madrid,Car,8,2,2635,Hostel,Business,Summer
-14,Austria,Salzburg,Bus,15,2,2241,Camping,Business,Summer
-15,Germany,Berlin,Train,10,2,2812,Hostel,Family Visit,Winter
-16,Portugal,Lisbon,Flight,3,4,1678,Hotel,Business,Fall
-17,UK,London,Train,13,5,975,Airbnb,Business,Spring
-18,Italy,Rome,Train,16,3,3352,Airbnb,Business,Summer
 19,Netherlands,Utrecht,Train,5,2,4143,Camping,Business,Spring
 20,France,Paris,Bus,5,2,1221,Hotel,Leisure,Spring
 21,Switzerland,Lucerne,Car,7,2,4043,Hotel,Family Visit,Spring
@@ -346,22 +339,6 @@ Tourist_ID,Country_Visited,City_Visited,Mode_of_Travel,Travel_Duration_Days,Numb
 345,Netherlands,Utrecht,Car,16,5,3875,Camping,Family Visit,Fall
 346,Italy,Milan,Bicycle,16,2,2343,Camping,Business,Fall
 347,Portugal,Faro,Train,15,3,4183,Camping,Leisure,Fall
-348,France,Paris,Car,5,4,364,Airbnb,Leisure,Spring
-349,Netherlands,Amsterdam,Bicycle,15,2,4625,Airbnb,Business,Winter
-350,Italy,Venice,Car,8,1,2398,Camping,Leisure,Spring
-351,UK,Manchester,Car,20,5,1114,Airbnb,Business,Fall
-352,Spain,Seville,Bus,5,5,4377,Camping,Leisure,Fall
-353,Portugal,Lisbon,Bicycle,3,1,3794,Airbnb,Family Visit,Summer
-354,Germany,Munich,Bicycle,11,2,4766,Hotel,Business,Winter
-355,France,Lyon,Train,13,4,1004,Hotel,Business,Fall
-356,UK,Manchester,Flight,7,1,3777,Hostel,Leisure,Fall
-357,Netherlands,Amsterdam,Car,13,1,2961,Camping,Family Visit,Spring
-358,UK,Edinburgh,Car,15,1,4153,Airbnb,Business,Spring
-359,Spain,Madrid,Bicycle,20,1,2773,Hotel,Leisure,Spring
-360,Switzerland,Lucerne,Flight,10,2,436,Hotel,Business,Spring
-361,France,Paris,Bus,8,1,1501,Hostel,Business,Winter
-362,Switzerland,Zurich,Bus,12,4,641,Camping,Family Visit,Winter
-363,France,Paris,Bicycle,14,2,3998,Hostel,Business,Winter
 364,Germany,Munich,Flight,6,3,2375,Airbnb,Leisure,Fall
 365,Portugal,Porto,Train,11,4,240,Hotel,Business,Winter
 366,Germany,Berlin,Bicycle,7,2,4883,Airbnb,Family Visit,Winter
@@ -403,26 +380,6 @@ Tourist_ID,Country_Visited,City_Visited,Mode_of_Travel,Travel_Duration_Days,Numb
 402,France,Paris,Flight,13,1,3787,Camping,Family Visit,Winter
 403,Greece,Athens,Car,14,2,4311,Hostel,Leisure,Spring
 404,Greece,Thessaloniki,Bicycle,14,2,1331,Airbnb,Business,Summer
-405,Germany,Hamburg,Train,3,3,3441,Camping,Family Visit,Spring
-406,Switzerland,Geneva,Car,3,3,2004,Hostel,Family Visit,Spring
-407,Portugal,Faro,Bicycle,14,2,4010,Airbnb,Leisure,Fall
-408,Switzerland,Zurich,Bicycle,8,4,4324,Hotel,Business,Fall
-409,Netherlands,Amsterdam,Flight,18,5,4613,Hostel,Business,Fall
-410,Netherlands,Rotterdam,Train,13,1,471,Airbnb,Business,Fall
-411,Spain,Seville,Train,13,1,4561,Camping,Business,Winter
-412,Greece,Santorini,Flight,8,4,4684,Camping,Family Visit,Spring
-413,Netherlands,Amsterdam,Bicycle,2,1,2250,Camping,Family Visit,Fall
-414,Greece,Santorini,Flight,14,2,345,Hotel,Family Visit,Summer
-415,UK,Edinburgh,Flight,6,1,631,Camping,Leisure,Spring
-416,Austria,Innsbruck,Bus,2,5,2832,Hotel,Business,Summer
-417,Italy,Venice,Flight,16,1,1163,Hotel,Family Visit,Fall
-418,Germany,Hamburg,Flight,13,3,2241,Airbnb,Family Visit,Fall
-419,Italy,Rome,Bicycle,6,5,4268,Hostel,Business,Fall
-420,Netherlands,Amsterdam,Train,12,4,1006,Airbnb,Leisure,Winter
-421,Greece,Santorini,Bicycle,15,3,2068,Hotel,Family Visit,Fall
-422,France,Nice,Bicycle,3,1,1084,Airbnb,Family Visit,Fall
-423,Italy,Milan,Bicycle,20,5,1589,Airbnb,Leisure,Winter
-424,Austria,Salzburg,Car,11,3,4521,Camping,Business,Winter
 425,Switzerland,Geneva,Car,10,1,2753,Hostel,Business,Fall
 426,France,Nice,Bicycle,4,5,1996,Airbnb,Family Visit,Fall
 427,Greece,Santorini,Bus,16,1,3370,Hostel,Family Visit,Spring
@@ -505,19 +462,6 @@ Tourist_ID,Country_Visited,City_Visited,Mode_of_Travel,Travel_Duration_Days,Numb
 504,Switzerland,Geneva,Bus,2,1,4244,Hostel,Business,Winter
 505,UK,Edinburgh,Flight,2,5,1117,Hostel,Family Visit,Spring
 506,France,Paris,Flight,8,2,289,Hotel,Family Visit,Fall
-507,Spain,Barcelona,Car,15,2,4438,Hostel,Business,Winter
-508,UK,London,Car,3,2,1086,Hostel,Business,Summer
-509,Greece,Santorini,Train,13,1,2095,Camping,Business,Spring
-510,Greece,Athens,Train,12,5,834,Camping,Business,Spring
-511,Portugal,Faro,Train,7,1,3344,Hostel,Family Visit,Spring
-512,Portugal,Lisbon,Flight,8,1,915,Airbnb,Family Visit,Summer
-513,Switzerland,Geneva,Train,9,2,3589,Hotel,Business,Fall
-514,Austria,Salzburg,Bicycle,16,3,2630,Camping,Family Visit,Fall
-515,Germany,Munich,Train,8,3,407,Airbnb,Family Visit,Fall
-516,Netherlands,Rotterdam,Train,5,2,221,Hostel,Business,Summer
-517,UK,Manchester,Flight,4,1,4309,Camping,Business,Summer
-518,France,Nice,Car,12,2,2334,Camping,Business,Summer
-519,Greece,Athens,Train,13,5,1760,Airbnb,Business,Summer
 520,Germany,Hamburg,Bus,14,3,2369,Hostel,Family Visit,Spring
 521,Italy,Venice,Flight,20,4,4980,Airbnb,Business,Spring
 522,Greece,Athens,Bicycle,9,5,3902,Hotel,Business,Fall
@@ -599,19 +543,6 @@ Tourist_ID,Country_Visited,City_Visited,Mode_of_Travel,Travel_Duration_Days,Numb
 598,Italy,Rome,Flight,20,2,1163,Hotel,Family Visit,Winter
 599,Portugal,Lisbon,Bus,17,5,3835,Camping,Family Visit,Fall
 600,Germany,Munich,Train,15,3,1892,Hotel,Business,Summer
-601,Greece,Santorini,Bicycle,16,4,305,Camping,Business,Winter
-602,Spain,Barcelona,Bus,5,2,4297,Airbnb,Business,Summer
-603,Austria,Innsbruck,Train,18,5,2337,Hotel,Family Visit,Fall
-604,Austria,Salzburg,Car,12,4,3854,Hostel,Family Visit,Winter
-605,Spain,Seville,Train,18,2,644,Hostel,Leisure,Spring
-606,Spain,Seville,Bicycle,11,4,1675,Hotel,Business,Fall
-607,Netherlands,Rotterdam,Train,8,1,1908,Hotel,Business,Winter
-608,Greece,Santorini,Train,11,3,1500,Hotel,Leisure,Summer
-609,Spain,Seville,Car,10,2,4816,Hotel,Leisure,Spring
-610,Austria,Innsbruck,Bus,16,2,2625,Airbnb,Family Visit,Summer
-611,Germany,Munich,Flight,11,1,3425,Hostel,Leisure,Fall
-612,Netherlands,Amsterdam,Flight,6,4,4345,Airbnb,Business,Fall
-613,Germany,Berlin,Flight,20,4,3473,Hotel,Leisure,Winter
 614,Germany,Berlin,Car,19,3,3240,Hostel,Leisure,Spring
 615,Spain,Barcelona,Bicycle,19,5,1784,Hostel,Family Visit,Winter
 616,Switzerland,Lucerne,Bus,4,4,1449,Airbnb,Family Visit,Winter
@@ -781,19 +712,6 @@ Tourist_ID,Country_Visited,City_Visited,Mode_of_Travel,Travel_Duration_Days,Numb
 780,Portugal,Faro,Car,11,3,4876,Airbnb,Business,Summer
 781,Switzerland,Zurich,Flight,6,4,2296,Hostel,Business,Spring
 782,Germany,Berlin,Car,11,5,2603,Camping,Leisure,Spring
-783,France,Lyon,Bicycle,7,2,3531,Hostel,Business,Summer
-784,Italy,Venice,Flight,8,2,3178,Airbnb,Business,Winter
-785,Portugal,Faro,Bicycle,2,1,2859,Camping,Family Visit,Fall
-786,Austria,Vienna,Bicycle,7,1,885,Hotel,Leisure,Summer
-787,Italy,Venice,Train,13,4,1819,Airbnb,Business,Winter
-788,UK,Manchester,Bicycle,5,5,1631,Camping,Leisure,Fall
-789,France,Lyon,Flight,13,2,2661,Airbnb,Leisure,Winter
-790,Germany,Hamburg,Car,8,3,2174,Camping,Leisure,Winter
-791,Portugal,Porto,Car,15,2,3671,Hotel,Family Visit,Winter
-792,Austria,Innsbruck,Car,11,1,404,Hostel,Leisure,Fall
-793,Netherlands,Rotterdam,Flight,7,4,1040,Camping,Leisure,Spring
-794,Netherlands,Utrecht,Bus,14,4,1919,Camping,Leisure,Spring
-795,Spain,Seville,Train,12,4,2497,Camping,Family Visit,Fall
 796,Austria,Salzburg,Train,12,1,889,Airbnb,Leisure,Spring
 797,Germany,Munich,Bicycle,2,3,3341,Hostel,Family Visit,Fall
 798,Austria,Salzburg,Train,16,2,871,Airbnb,Business,Fall
@@ -947,8 +865,6 @@ Tourist_ID,Country_Visited,City_Visited,Mode_of_Travel,Travel_Duration_Days,Numb
 946,Germany,Munich,Car,16,1,3334,Hostel,Family Visit,Summer
 947,Austria,Vienna,Flight,9,3,2241,Hotel,Business,Winter
 948,Switzerland,Lucerne,Bus,5,4,4200,Hotel,Leisure,Spring
-949,Switzerland,Lucerne,Bicycle,8,2,3180,Camping,Family Visit,Summer
-950,Greece,Santorini,Bus,8,4,1791,Airbnb,Business,Winter
 951,Switzerland,Geneva,Bus,2,1,2806,Airbnb,Business,Fall
 952,Spain,Madrid,Flight,20,5,3473,Camping,Leisure,Fall
 953,Austria,Vienna,Bicycle,19,4,1642,Airbnb,Family Visit,Winter
@@ -988,10 +904,6 @@ Tourist_ID,Country_Visited,City_Visited,Mode_of_Travel,Travel_Duration_Days,Numb
 987,Portugal,Porto,Car,3,3,2045,Camping,Business,Spring
 988,Spain,Seville,Flight,14,4,2493,Hotel,Business,Spring
 989,UK,London,Car,12,4,1176,Hostel,Leisure,Winter
-990,Portugal,Lisbon,Bicycle,10,2,1082,Camping,Business,Winter
-991,Germany,Munich,Train,20,2,2867,Camping,Leisure,Spring
-992,Austria,Innsbruck,Bus,13,4,4877,Camping,Family Visit,Winter
-993,Portugal,Faro,Train,5,3,3688,Hotel,Leisure,Summer
 994,Austria,Salzburg,Bicycle,16,3,4999,Hotel,Business,Fall
 995,UK,Edinburgh,Bus,20,2,3736,Hotel,Business,Summer
 996,France,Lyon,Bus,20,5,4002,Hotel,Business,Fall
