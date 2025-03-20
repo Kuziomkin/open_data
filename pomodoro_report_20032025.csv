@@ -1,0 +1,465 @@
+date	project	task	minutes	startTime	endTime
+20241225	"Python"	"Create Online Loyalty Jinja Template"	50	17:12	18:33
+20241226	"Focus Work"	"Poslog Ref Analysis"	15	11:32	11:47
+20241226	"Focus Work"	"Poslog Ref Analysis"	10	12:25	12:38
+20241226	"CBDA"	"2.1 Identify The Research Questions"	25	12:38	13:09
+20241226	"Focus Work"	"Poslog Ref Analysis"	27	14:26	15:53
+20241226	"Focus Work"	"Poslog Ref Analysis"	23	16:47	17:28
+20241226	"Focus Work"	"Poslog Ref Analysis"	25	18:00	18:39
+20241227	"Focus Work"	"Poslog Ref Analysi"	25	14:00	14:25
+20241227	"Python"	"Write Config Excell Functions"	25	18:30	18:55
+20241227	"CBDA"	"2.1 Identify The Research Questions"	25	21:21	21:47
+20241228	"Data Engineering"	"Learn PySpark"	25	10:13	10:43
+20241228	"LinkedIn Posts"	"Why to pass certifications?"	11	16:53	17:04
+20241228	"LinkedIn Posts"	"Why to pass certifications?"	14	20:42	20:56
+20241229	"CBDA"	"2.1 Identify The Research Questions"	14	08:19	08:32
+20241229	"CBDA"	"2.1 Identify The Research Questions"	18	09:58	10:31
+20241229	"CBDA"	"2.1 Identify The Research Questions"	1	15:15	15:16
+20241229	"CBDA"	"2.1 Identify The Research Questions"	10	17:22	17:32
+20241229	"Python"	"Write Functions for Joining Conditions STTM Generator"	25	17:55	18:20
+20241230	"Spanish"	"Spanish HW"	4	09:47	09:51
+20241230	"Spanish"	"Spanish HW"	21	10:51	11:12
+20241230	"Focus Work"	"Poslog ITA new tags"	25	11:57	12:27
+20241230	"Focus Work"	"Poslog ITA new tags"	43	16:20	17:04
+20241230	"Gym"	"Back Day"	60	17:00	18:00
+20241230	"CBDA"	"2.1 Identify The Research Questions"	25	21:26	22:01
+20241231	"LinkedIn Posts"	"How to set goals post"	23	08:55	09:18
+20241231	"LinkedIn Posts"	"How to set goals post"	2	10:44	10:46
+20241231	"Focus Work"	"Poslog ITA new tags"	75	11:43	13:33
+20250101	"LinkedIn Posts"	"Importance of measure"	25	11:40	12:20
+20250101	"LinkedIn Posts"	"How to set goals post"	25	12:20	13:02
+20250101	"CBDA"	"2.1 Identify The Research Questions"	25	17:15	17:52
+20250101	"English"	"English self-study"	40	20:39	21:47
+20250102	"Gym"	"Triceps/Biceps"	65	07:10	08:15
+20250102	"Focus Work"	"Poslog ITA new tags"	10	11:17	11:27
+20250102	"Focus Work"	"Poslog ITA new tags"	11	12:53	13:03
+20250102	"Focus Work"	"Poslog ITA new tags"	4	14:31	14:35
+20250102	"Focus Work"	"Create Braze Template"	100	15:39	18:02
+20250102	"English"	"English self-study"	25	21:16	21:41
+20250103	"Spanish"	"Spanish Group Lesson"	60	 	01:00
+20250103	"Focus Work"	"Braze Template"	94	16:42	18:59
+20250103	"Gym"	"Cardio + Pull Up"	65	19:30	20:35
+20250103	"English"	"English self-study"	30	21:07	21:37
+20250104	"CBDA"	"A Case Study for Identify the Research Questions"	30	09:00	09:33
+20250104	"CBDA"	"A Case Study for Identify the Research Questions"	30	10:24	10:57
+20250104	"Gym"	"Deadlift Day"	60	12:30	13:30
+20250104	"English"	"English self-study"	30	17:52	18:23
+20250105	"English"	"English self-study"	30	20:52	21:24
+20250106	"CBDA"	"2.2 Source Data"	30	08:09	08:50
+20250106	"Python"	"STTM Generator Framework"	16	10:21	10:36
+20250106	"Python"	"STTM Generator Framework"	14	11:44	11:58
+20250106	"Python"	"STTM Generator Framework"	30	17:05	17:36
+20250106	"Business Analysis"	"Module 1: Discovery Crash Course"	30	18:00	18:30
+20250106	"English"	"English self-study"	30	20:27	21:26
+20250106	"LinkedIn Posts"	"Ideas for LinkedIn Posts"	30	21:29	22:00
+20250107	"Focus Work"	"Tickets for Natalia"	30	11:43	12:13
+20250107	"CBDA"	"2.2 Source Data"	30	12:17	12:47
+20250107	"Business Analysis"	"Module 1: Discovery Crash Course"	22	12:51	13:14
+20250107	"Business Analysis"	"Module 1: Discovery Crash Course"	8	14:16	14:24
+20250107	"Focus Work"	"Review Questions for SME"	30	14:30	15:10
+20250107	"Focus Work"	"Create ticket with unmapped ref values for Srini"	30	17:17	18:02
+20250107	"Focus Work"	"STTM Generator"	13	18:21	18:34
+20250107	"English"	"English self-study"	30	21:03	21:47
+20250108	"Gym"	"Shoulders Day"	60	07:31	08:31
+20250108	"Focus Work"	"STTM Generator"	23	11:36	11:59
+20250108	"Focus Work"	"STTM Generator"	7	13:30	13:37
+20250108	"CBDA"	"2.2 Source Data"	28	13:54	14:30
+20250108	"CBDA"	"2.2 Source Data"	2	15:03	15:05
+20250108	"Focus Work"	"Create a list of Process Layer Changes"	44	17:35	18:29
+20250108	"English"	"English self-study"	30	20:45	21:27
+20250109	"Focus Work"	"Create a list of Process Layer Changes"	30	11:05	12:20
+20250109	"Gym"	"Cardio Day"	54	13:12	14:06
+20250109	"Focus Work"	"Open Questions"	30	17:57	18:33
+20250109	"Focus Work"	"Create a Documentation Approach Presentation"	21	18:34	18:56
+20250109	"CBDA"	"2.2 Source Data"	30	21:00	21:32
+20250109	"English"	"English self-study"	30	21:44	22:14
+20250110	"Focus Work"	"Create Short STTM Approach Presentation"	14	11:54	12:08
+20250110	"Spanish"	"EPAM Group Learning"	50	12:10	13:00
+20250110	"Focus Work"	"Explore IPOS Transactions Samples"	30	17:25	17:55
+20250110	"CBDA"	"2.3 Analyze Data"	16	18:13	18:29
+20250110	"CBDA"	"2.3 Analyze Data"	14	20:51	21:05
+20250110	"English"	"English self-study"	30	21:30	22:05
+20250111	"CBDA"	"2.3 Analyze Data"	30	09:39	10:14
+20250111	"CBDA"	"2.3 Analyze Data"	4	11:57	12:00
+20250111	"Gym"	"Chest Day"	75	13:55	15:10
+20250111	"CBDA"	" 2.3 Analyze Data"	14	17:37	17:52
+20250111	"CBDA"	"CBDA Mock Test1"	30	17:56	18:26
+20250111	"LinkedIn Posts"	"Write a new short LinkedIn post"	27	18:28	18:55
+20250111	"English"	"English self-study"	30	21:12	21:42
+20250112	"LinkedIn Posts"	"Write a new short LinkedIn post"	7	09:55	10:02
+20250112	"LinkedIn Posts"	"Write a new short LinkedIn post"	9	11:33	11:42
+20250112	"Gym"	"Legs Day"	75	15:30	16:45
+20250112	"LinkedIn Posts"	"Write a new short LinkedIn post"	21	17:43	18:04
+20250112	"CBDA"	"CBDA Mock Test1"	30	19:47	20:18
+20250112	"English"	"English self-study"	30	20:42	21:35
+20250113	"CBDA"	"2.4 Interpret and Report Results"	6	06:59	07:08
+20250113	"CBDA"	"2.4 Interpret and Report Results"	5	08:24	08:28
+20250113	"Focus Work"	"Review Poslog STTM"	28	09:33	10:03
+20250113	"Focus Work"	"Review Poslog STTM"	2	11:08	11:09
+20250113	"Focus Work"	"IPOS Data Exploration"	30	11:27	12:23
+20250113	"Focus Work"	"IPOS Data Exploration"	30	17:40	18:10
+20250113	"English"	"English Class"	90	19:30	21:00
+20250114	"CBDA"	"2.4 Interpret and Report Results"	15	07:13	07:27
+20250114	"CBDA"	"2.4 Interpret and Report Results"	15	09:18	09:33
+20250114	"Spanish"	"Spanish HW"	23	09:37	10:00
+20250114	"Focus Work"	"Add missed columns into Poslog ITA"	11	10:03	10:14
+20250114	"Focus Work"	"Add missed columns into Poslog ITA"	30	11:15	12:01
+20250114	"Spanish"	"Spanish Group Class"	50	12:00	12:50
+20250114	"LinkedIn Posts"	"Write a new short LinkedIn post"	16	17:47	18:02
+20250114	"Focus Work"	"Add missed columns into Poslog ITA"	23	18:06	18:29
+20250114	"English"	"English self-study"	30	21:03	21:33
+20250115	"Gym"	"Biceps/Triceps"	60	07:30	08:30
+20250115	"Focus Work"	"Team Management Activities"	30	12:23	12:53
+20250115	"Focus Work"	"Team Management Activities"	30	17:10	17:40
+20250115	"Data Engineering"	"Databricks"	30	17:52	18:22
+20250115	"English"	"English self-study"	30	21:36	22:17
+20250116	"Gym"	"Cardio Day"	60	08:15	09:15
+20250116	"Data Engineering"	"Databricks Learning"	4	17:42	17:46
+20250116	"Data Engineering"	"Databricks Learning"	26	18:28	18:54
+20250116	"English"	"English self-study"	30	20:51	21:21
+20250117	"LinkedIn Posts"	"Write a new short LinkedIn post"	30	08:42	09:28
+20250117	"Spanish"	"Spanish Group Class"	57	12:03	13:00
+20250117	"Focus Work"	"Webmethod Doc For Poslog"	30	14:00	14:30
+20250117	"Focus Work"	"Defect impact analysis"	30	15:22	15:52
+20250117	"Data Engineering"	"Databricks Learning"	30	17:37	18:36
+20250117	"English"	"English self-study"	30	20:47	21:17
+20250118	"CBDA"	"2.4 Interpret and Report Results "	12	07:38	07:49
+20250118	"CBDA"	"2.4 Interpret and Report Results "	10	09:52	10:18
+20250118	"Gym"	"Back Day"	80	13:30	14:50
+20250118	"Focus Work"	"Loyalty STTM Template"	60	16:41	17:55
+20250118	"English"	"English self-study"	30	20:10	20:41
+20250119	"Data Engineering"	"Databricks Data Analyst"	10	08:10	08:21
+20250119	"Data Engineering"	"Databricks Data Analyst"	18	10:29	10:49
+20250119	"Data Engineering"	"Databricks Data Analyst"	1	11:43	11:44
+20250119	"Gym"	"Legs Day"	79	13:30	14:49
+20250119	"LinkedIn Posts"	"Write a new short LinkedIn post"	30	18:19	18:49
+20250119	"English"	"English self-study"	30	20:31	21:01
+20250120	"Spanish"	"EPAM Group Class HW"	30	09:36	10:30
+20250120	"Focus Work"	"Loyalty Template"	36	11:15	12:30
+20250120	"Data Engineering"	"Databricks Learning"	18	12:40	12:59
+20250120	"Focus Work"	"Loyalty Template"	6	13:52	13:58
+20250120	"Focus Work"	"Loyalty Template"	60	16:45	17:50
+20250120	"English"	"English Class"	90	19:30	21:00
+20250121	"LinkedIn Posts"	"Write a new short LinkedIn post"	7	09:36	09:43
+20250121	"Focus Work"	"Create DACs for Belgium"	8	11:05	11:24
+20250121	"Spanish"	"EPAM Class"	60	12:00	13:00
+20250121	"Focus Work"	"Create DACs for Belgium"	16	18:04	18:31
+20250121	"English"	"English self-study"	30	20:50	21:20
+20250122	"Gym"	"Chest Day"	60	07:30	08:30
+20250122	"Focus Work"	"Analytics Repositories"	30	16:43	17:13
+20250122	"English"	"Speaking Exam"	30	19:30	20:00
+20250123	"Focus Work"	"Issues Analysis"	59	12:55	15:01
+20250123	"LinkedIn Posts"	"Write a short Post"	30	17:00	17:30
+20250123	"Gym"	"Cardio Day"	60	20:00	21:00
+20250123	"English"	"English self-study"	30	21:42	22:12
+20250124	"Gym"	"Morning exercises"	15	08:15	08:30
+20250124	"Spanish"	"EPAM Group Class"	57	12:03	13:00
+20250124	"Focus Work"	"Jinja Template for Winparf"	60	13:56	15:02
+20250124	"CBDA"	"CBDA Mock Tests"	30	20:14	20:44
+20250124	"English"	"English self-study"	30	21:44	22:14
+20250125	"CBDA"	"CBDA Mock Tests"	90	09:38	11:48
+20250125	"Gym"	"Deadlift Day"	79	13:30	14:49
+20250125	"LinkedIn Posts"	"Write a new short LinkedIn post"	30	20:28	20:58
+20250125	"English"	"English self-study"	30	21:30	22:02
+20250126	"Gym"	"Shoulders Day"	75	12:30	13:45
+20250126	"LinkedIn Posts"	"Write a new short LinkedIn post"	30	16:24	16:54
+20250126	"Educational Business"	"IIBA Presentation"	20	17:30	17:50
+20250126	"English"	"English self-study"	30	20:08	20:38
+20250126	"CBDA"	"CBDA"	30	21:52	22:22
+20250127	"Gym"	"Morning Exercise"	15	08:00	08:15
+20250127	"CBDA"	"Mock Test"	30	13:35	14:05
+20250127	"Focus Work"	"IPPOS Template"	30	14:49	15:19
+20250127	"Focus Work"	"IPPOS Template"	7	16:14	16:21
+20250127	"Focus Work"	"IPPOS Template"	23	17:31	17:54
+20250127	"English"	"English Class"	90	19:30	21:00
+20250128	"Spanish"	"Spanish Class"	50	 	00:50
+20250128	"Gym"	"Morning Exercise"	20	08:00	08:20
+20250128	"CBDA"	"CBDA Learning"	30	09:45	10:15
+20250128	"Educational Business"	"IIBA Presentation"	20	14:00	14:20
+20250128	"Focus Work"	"IPPOS Transaction Template"	30	14:18	14:48
+20250128	"Focus Work"	"IPPOS Transaction Template"	4	17:45	17:49
+20250128	"Focus Work"	"IPPOS Transaction Template"	23	18:21	18:44
+20250128	"CBDA"	"CBDA Learning"	30	21:00	21:30
+20250128	"English"	"English self-study"	30	21:59	22:29
+20250129	"Gym"	"Bicep/Triceps"	60	07:40	08:40
+20250129	"Educational Business"	"IIBA Presentation"	20	11:00	11:20
+20250129	"Focus Work"	"IPPOS Transaction Template"	6	11:49	11:55
+20250129	"Focus Work"	"Review STTM for CFDM2.0 model alignment"	30	14:23	14:55
+20250129	"Focus Work"	"Review STTM for CFDM2.0 model alignment"	90	16:11	17:55
+20250129	"CBDA"	"CBDA Learning"	30	20:30	21:00
+20250129	"English"	"English self-study"	30	21:51	22:21
+20250130	"Focus Work"	"IPPOS Transaction Template"	25	11:47	12:12
+20250130	"CBDA"	"CBDA Learning"	16	12:29	12:45
+20250130	"CBDA"	"CBDA Learning"	9	13:37	13:48
+20250130	"Focus Work"	"IPPOS Transaction Template"	25	14:23	14:48
+20250130	"Focus Work"	"IPPOS Transaction Template"	25	18:00	18:25
+20250130	"English"	"English self-study"	25	21:18	21:43
+20250131	"Gym"	"Morning Exercise"	20	08:00	08:20
+20250131	"CBDA"	"CBDA Learning"	25	08:58	09:23
+20250131	"Spanish"	"Spanish HW"	25	10:00	10:25
+20250131	"Focus Work"	"Winshop/Winparf Template"	25	10:55	11:23
+20250131	"Focus Work"	"Winshop/Winparf Template"	11	11:38	11:49
+20250131	"Spanish"	"Group Class"	50	12:10	13:00
+20250131	"Focus Work"	"Winshop/Winparf Template"	14	14:23	14:38
+20250131	"Educational Business"	"IIBA Presentation"	20	16:34	17:10
+20250131	"Focus Work"	"Winshop/Winparf Template"	25	17:29	17:54
+20250131	"Educational Business"	"IIBA Presentation"	60	19:00	20:00
+20250131	"English"	"English self-study"	25	21:13	21:38
+20250201	"CBDA"	"CBDA Learning"	25	07:05	07:30
+20250201	"CBDA"	"CBDA Learning"	25	08:13	08:52
+20250201	"Gym"	"Back Day"	75	13:30	14:45
+20250201	"LinkedIn Posts"	"Data profiling by using ducked"	50	16:00	16:50
+20250201	"English"	"English self-study"	25	21:17	21:42
+20250202	"CBDA"	"CBDA Learning"	25	08:27	08:52
+20250202	"CBDA"	"Full test"	70	10:30	11:40
+20250202	"Gym"	"Legs Day"	75	13:30	14:45
+20250202	"LinkedIn Posts"	"Short LinkedIn Post"	25	16:30	16:55
+20250202	"English"	"English self-study"	25	20:39	21:04
+20250203	"Gym"	"Morning Exercise"	20	08:00	08:20
+20250203	"CBDA"	"CBDA Learning"	25	08:26	08:51
+20250203	"Focus Work"	"Winparf/Winshop Templates"	25	09:58	10:23
+20250203	"Focus Work"	"Winparf/Winshop Templates"	25	12:12	12:37
+20250203	"English"	"English Class"	90	19:40	21:10
+20250204	"Spanish"	"Spanish Class"	50	 	00:50
+20250204	"CBDA"	"CBDA Learning"	25	09:13	09:42
+20250204	"Focus Work"	"Transaction Loyalty Issue"	25	14:53	15:24
+20250204	"Focus Work"	"IPPOS Ref Analysis"	25	16:41	17:06
+20250204	"English"	"English self-study"	25	21:12	21:37
+20250205	"Gym"	"Chest Day"	50	08:30	09:20
+20250205	"Focus Work"	"Winshop/Winparf Template"	25	12:22	12:47
+20250205	"Focus Work"	"Winshop/Winparf Template"	20	13:58	14:18
+20250205	"Focus Work"	"Winshop/Winparf Template"	5	18:12	18:17
+20250205	"CBDA"	"CBDA Learning"	25	20:39	21:04
+20250205	"English"	"English self-study"	25	21:14	21:39
+20250206	"Gym"	"Morning Exercise"	20	07:30	07:50
+20250206	"Focus Work"	"Winshop/Winparf Template"	25	16:00	16:25
+20250206	"CBDA"	"CBDA Learning"	25	18:21	18:46
+20250206	"English"	"English self-study"	25	21:18	21:43
+20250207	"Gym"	"Cardio Day"	65	08:00	09:05
+20250207	"Spanish"	"Spanish Class"	55	12:00	12:55
+20250207	"Focus Work"	"IPPOS Ref Analysis"	25	13:58	14:23
+20250207	"Focus Work"	"Create Tickets For Dev team"	25	17:57	18:22
+20250207	"Focus Work"	"Winshop/Winparf Template"	23	18:48	19:11
+20250207	"CBDA"	"CBDA Learning"	25	20:25	20:50
+20250207	"CBDA"	"CBDA Learning"	20	20:50	21:11
+20250207	"English"	"English self-study"	25	21:17	21:42
+20250208	"CBDA"	"CBDA Learning"	25	08:45	09:10
+20250208	"Gym"	"Deadlift"	75	14:30	15:45
+20250208	"LinkedIn Posts"	"Write a new short LinkedIn post"	25	20:45	21:10
+20250208	"English"	"English self-study"	25	21:21	21:46
+20250209	"LinkedIn Posts"	"Write a new short LinkedIn post"	25	08:22	08:47
+20250209	"CBDA"	"Mock Test"	60	10:00	11:00
+20250209	"Gym"	"Biceps/Triceps"	85	13:30	14:55
+20250209	"LinkedIn Posts"	"Write a new short LinkedIn post"	25	16:01	16:26
+20250209	"CBDA"	"CBDA Learning"	50	19:28	20:40
+20250209	"English"	"English self-study"	25	20:59	21:24
+20250210	"CBDA"	"CBDA Learning"	25	07:21	07:49
+20250210	"Focus Work"	"Winparf/Winshop Template"	25	11:36	12:01
+20250210	"CBDA"	"CBDA Learning"	25	12:16	12:46
+20250210	"Focus Work"	"Operator Id research"	25	14:07	15:04
+20250210	"Focus Work"	"Operator Id research"	25	16:21	16:46
+20250210	"English"	"Group Class"	90	19:30	21:00
+20250211	"Gym"	"Morning Exercise"	20	07:40	08:00
+20250211	"Spanish"	"Group Class"	50	12:10	13:00
+20250211	"English"	"English self-study"	25	21:10	21:35
+20250212	"Gym"	"Shoulders Day"	60	08:00	09:00
+20250212	"LinkedIn Posts"	"Write a new short LinkedIn post"	25	11:23	11:48
+20250212	"Focus Work"	"Impact Analysis"	25	12:01	12:39
+20250212	"Focus Work"	"Impact Analysis"	25	16:45	17:10
+20250212	"CBDA"	"CBDA Learning"	25	20:29	20:55
+20250212	"English"	"English self-study"	25	21:17	21:42
+20250213	"Gym"	"Cardio Day"	55	08:40	09:35
+20250213	"CBDA"	"CBDA Learning"	18	12:59	13:17
+20250213	"CBDA"	"CBDA Learning"	7	14:07	14:14
+20250213	"Focus Work"	"Winshop/Winparf Template"	50	17:21	18:46
+20250213	"CBDA"	"CBDA Learning"	25	20:47	21:12
+20250213	"English"	"English self-study"	25	21:19	21:44
+20250214	"Spanish"	"Group Class"	50	00:10	01:00
+20250214	"Focus Work"	"Review PR"	25	09:58	10:23
+20250214	"Focus Work"	"Joining Conditions"	25	14:15	14:51
+20250214	"Focus Work"	"Investigate Postponed Consumers"	25	16:29	16:54
+20250214	"CBDA"	"CBDA Learning"	12	19:18	19:31
+20250214	"CBDA"	"CBDA Learning"	13	20:32	20:45
+20250214	"Focus Work"	"Joining Conditions"	0	20:46	20:47
+20250214	"CBDA"	"CBDA Learning"	25	20:47	21:11
+20250214	"English"	"English self-study"	25	21:16	21:41
+20250215	"CBDA"	"CBDA Learning"	8	08:51	08:59
+20250215	"Gym"	"Legs Day"	75	12:30	13:45
+20250215	"CBDA"	"CBDA Learning"	16	16:25	16:41
+20250215	"Focus Work"	"Joining Conditions"	25	17:45	18:10
+20250215	"LinkedIn Posts"	"Write a new short LinkedIn post"	25	20:07	20:39
+20250215	"CBDA"	"CBDA Learning"	25	20:50	21:15
+20250215	"English"	"English self-study"	25	21:19	21:44
+20250216	"LinkedIn Posts"	"Write a new short LinkedIn post"	25	09:50	10:15
+20250216	"Gym"	"Back Day"	80	12:30	13:50
+20250216	"Python"	"Python Learning"	25	16:10	16:35
+20250216	"English"	"English self-study"	25	19:41	20:11
+20250216	"CBDA"	"CBDA Learning"	25	21:10	21:35
+20250217	"Gym"	"Morning Exercise"	20	07:30	07:50
+20250217	"CBDA"	"CBDA Learning"	4	08:21	08:25
+20250217	"CBDA"	"CBDA Learning"	9	12:37	12:46
+20250217	"LinkedIn Posts"	"Collect Posts Stats"	25	12:30	12:55
+20250217	"CBDA"	"CBDA Learning"	12	13:31	13:42
+20250217	"Focus Work"	"Encrypt OperatorId"	25	13:45	14:10
+20250217	"Focus Work"	"Missed Online Consumers"	12	15:07	15:19
+20250217	"Focus Work"	"Missed Online Consumers"	13	16:18	17:01
+20250217	"Python"	"Create Jupyter Dash App Demo "	25	17:17	17:42
+20250217	"English"	"Group Class"	90	19:30	21:00
+20250218	"CBDA"	"CBDA Learning"	2	09:18	09:20
+20250218	"CBDA"	"CBDA Learning"	23	14:30	14:54
+20250218	"Focus Work"	"Joining Conditions"	25	17:30	17:55
+20250218	"LinkedIn Posts"	"Write a new short LinkedIn post"	25	20:49	21:24
+20250218	"English"	"English self-study"	25	21:32	21:57
+20250219	"LinkedIn Posts"	"List of Ideas"	25	11:30	11:55
+20250219	"Focus Work"	"Resolve Merge Conflicts"	25	14:21	14:46
+20250219	"Focus Work"	"Poslog Transaction Template"	25	18:29	18:56
+20250219	"CBDA"	"CBDA Learning"	25	20:07	20:32
+20250219	"CBDA"	"CBDA Learning"	25	20:32	20:57
+20250219	"Gym"	"Chest Day"	60	20:25	21:25
+20250219	"English"	"English self-study"	25	21:24	21:49
+20250220	"Gym"	"Cardio + Pull Up"	65	08:00	09:05
+20250220	"LinkedIn Posts"	"Short Post"	25	11:01	11:26
+20250220	"Focus Work"	"Poslog Transaction Template"	25	12:20	13:02
+20250220	"CBDA"	"CBDA Learning"	25	17:45	18:11
+20250220	"CBDA"	"CBDA Learning"	50	20:10	21:19
+20250220	"English"	"English self-study"	25	21:20	21:45
+20250221	"Focus Work"	"Poslog Template"	25	06:30	06:55
+20250221	"Spanish"	"Group Class"	55	11:01	11:56
+20250221	"Focus Work"	"Poslog Template"	4	13:05	13:09
+20250221	"Focus Work"	"Poslog Template"	21	15:03	15:24
+20250221	"CBDA"	"CBDA Learning"	25	20:54	21:19
+20250221	"English"	"English self-study"	25	21:24	21:49
+20250222	"CBDA"	"Mock Test"	60	09:00	10:00
+20250222	"LinkedIn Posts"	"Write a new short LinkedIn post"	25	10:14	10:39
+20250222	"Gym"	"Bicep/Tricep"	95	13:30	15:05
+20250222	"LinkedIn Posts"	"Draft versions of a content"	25	20:30	20:55
+20250222	"CBDA"	"CBDA Learning"	25	21:03	21:28
+20250222	"English"	"English self-study"	25	21:29	21:54
+20250223	"CBDA"	"CBDA Learning"	25	09:06	09:31
+20250223	"Gym"	"Deadlift"	80	13:30	14:50
+20250223	"CBDA"	"CBDA Learning"	25	17:17	17:47
+20250223	"LinkedIn Posts"	"Short Post"	25	17:30	17:55
+20250223	"CBDA"	"CBDA Learning"	14	18:06	18:20
+20250223	"CBDA"	"CBDA Learning"	11	21:10	21:57
+20250224	"Focus Work"	"New MacPro Logic"	25	12:13	12:41
+20250224	"Focus Work"	"Poslog Template"	6	16:29	16:38
+20250224	"Focus Work"	"Poslog Template"	39	18:07	18:54
+20250224	"LinkedIn Posts"	"Write a new short LinkedIn post"	25	20:49	21:14
+20250224	"English"	"English self-study"	25	21:24	21:49
+20250225	"Spanish"	"Group Class"	30	00:20	00:50
+20250225	"CBDA"	"CBDA Learning"	17	08:31	08:48
+20250225	"CBDA"	"CBDA Learning"	8	13:59	14:07
+20250225	"Focus Work"	"Poslog Template"	25	14:21	14:46
+20250225	"Focus Work"	"Poslog Template"	3	15:18	15:21
+20250225	"Focus Work"	"Poslog Template"	22	18:34	18:55
+20250225	"English"	"English self-study"	25	20:43	21:08
+20250226	"CBDA"	"Learning Course"	60	12:00	13:00
+20250226	"English"	"English self-study"	25	20:10	21:09
+20250227	"Gym"	"Cardio + Pull Up"	70	07:40	08:50
+20250227	"Focus Work"	"Poslog Template"	25	12:56	13:21
+20250227	"Focus Work"	"Poslog Template"	25	14:28	14:53
+20250227	"Focus Work"	"Poslog Template"	25	18:20	18:49
+20250227	"CBDA"	"CBDA Learning"	30	20:52	21:22
+20250227	"English"	"English self-study"	20	21:23	22:01
+20250228	"LinkedIn Posts"	"Write a new short LinkedIn post"	30	09:17	09:57
+20250228	"CBDA"	"CBDA Learning"	30	12:13	12:43
+20250228	"Python"	"Python Learning"	30	14:01	14:31
+20250228	"CBDA"	"CBDA Learning"	30	16:38	17:10
+20250228	"Gym"	"Shoulders Day"	70	17:30	18:40
+20250228	"CBDA"	"CBDA Learning"	30	20:33	21:10
+20250228	"English"	"English self-study"	30	21:28	21:58
+20250301	"CBDA"	"CBDA Learning"	30	09:12	10:23
+20250301	"Gym"	"Legs Day"	75	13:30	14:45
+20250301	"Focus Work"	"Poslog Template"	20	16:00	16:20
+20250301	"Focus Work"	"Poslog Template"	30	17:41	18:11
+20250301	"English"	"English self-study"	30	21:01	21:31
+20250301	"CBDA"	"CBDA Learning"	30	21:35	22:05
+20250302	"LinkedIn Posts"	"Write a new short LinkedIn post"	30	09:34	10:16
+20250302	"CBDA"	"CBDA Learning"	30	11:47	12:17
+20250302	"Gym"	"Back Day"	80	12:30	13:50
+20250302	"Focus Work"	"Poslog Template"	59	16:57	17:57
+20250302	"Focus Work"	"Poslog Template"	1	20:48	20:49
+20250302	"English"	"English self-study"	30	20:50	21:20
+20250302	"CBDA"	"CBDA Learning"	13	21:22	21:35
+20250303	"LinkedIn Posts"	"Write a new short LinkedIn post"	25	07:07	07:32
+20250303	"CBDA"	"CBDA Learning"	28	13:31	13:59
+20250303	"English"	"Group Class"	90	19:30	21:00
+20250304	"LinkedIn Posts"	"Write a new short LinkedIn post"	30	09:25	09:55
+20250304	"Spanish"	"Group Class"	60	12:01	13:01
+20250304	"Focus Work"	"Templates Review"	30	14:16	14:51
+20250304	"Focus Work"	"Analysis"	30	17:01	17:31
+20250304	"LinkedIn Posts"	"Write a new short LinkedIn post"	20	20:30	20:50
+20250304	"English"	"English self-study"	30	21:11	21:41
+20250305	"Gym"	"Chest Day"	60	07:30	08:30
+20250305	"CBDA"	"CBDA Learning"	30	20:27	20:57
+20250305	"English"	"English self-study"	22	21:16	21:38
+20250306	"Gym"	"Bicep/Triceps"	60	08:00	09:00
+20250306	"Focus Work"	"Template Review"	30	17:29	17:59
+20250306	"CBDA"	"CBDA Learning"	30	20:33	21:03
+20250306	"English"	"English self-study"	30	21:03	21:41
+20250307	"Spanish"	"Spanish HW"	9	09:31	10:05
+20250307	"Spanish"	"Group Class"	50	12:10	13:00
+20250307	"Focus Work"	"Analyze New Online Data"	20	18:41	19:02
+20250307	"Focus Work"	"Analyze New Online Data"	10	19:52	20:01
+20250307	"CBDA"	"CBDA Learning"	30	20:40	21:26
+20250307	"English"	"English self-study"	8	21:29	21:37
+20250308	"CBDA"	"CBDA Learning"	30	09:12	09:59
+20250308	"CBDA"	"CBDA Learning"	9	10:11	10:36
+20250308	"Gym"	"Deadlift Day"	80	14:30	15:50
+20250308	"CBDA"	"CBDA Learning"	21	20:39	21:00
+20250308	"English"	"English self-study"	23	21:03	21:35
+20250309	"LinkedIn Posts"	"Write a new short LinkedIn post"	30	09:46	10:16
+20250309	"LinkedIn Posts"	"Write a new short LinkedIn post"	30	11:46	12:16
+20250309	"CBDA"	"CBDA Learning"	30	12:28	12:58
+20250309	"CBDA"	"CBDA Learning"	10	13:02	13:12
+20250309	"CBDA"	"CBDA Learning"	20	14:08	14:46
+20250309	"Gym"	"Shoulders Day"	90	16:30	18:00
+20250309	"LinkedIn Posts"	"Write a short article"	20	20:00	20:20
+20250309	"English"	"English self-study"	26	21:11	21:39
+20250310	"LinkedIn Posts"	"Write a new short LinkedIn post"	13	08:09	08:22
+20250310	"LinkedIn Posts"	"Write a new short LinkedIn post"	17	12:30	12:46
+20250310	"Focus Work"	"Cybersecurity Course"	13	12:47	13:00
+20250310	"English"	"English Class"	90	19:30	21:00
+20250311	"CBDA"	"CBDA Learning"	27	08:14	08:44
+20250311	"CBDA"	"CBDA Learning"	3	09:35	09:39
+20250311	"Spanish"	"Group Class"	60	12:00	13:00
+20250311	"Focus Work"	"Cyber Sourse"	20	16:30	16:50
+20250311	"Focus Work"	"Analytics"	30	17:23	17:52
+20250311	"CBDA"	"CBDA Learning"	30	20:21	20:51
+20250311	"English"	"English self-study"	20	21:26	21:46
+20250312	"Gym"	"Cardio + Pull Up"	60	08:30	09:30
+20250312	"LinkedIn Posts"	"Write a new short LinkedIn post"	30	12:53	13:23
+20250312	"LinkedIn Posts"	"Write a new short LinkedIn post"	23	20:06	20:29
+20250312	"CBDA"	"CBDA Learning"	30	20:30	21:06
+20250312	"English"	"English self-study"	30	21:08	21:37
+20250313	"Gym"	"Legs Day"	60	08:30	09:30
+20250313	"Focus Work"	"Analytics"	30	16:36	17:06
+20250313	"CBDA"	"CBDA Learning"	30	18:26	19:02
+20250313	"CBDA"	"CBDA Learning"	30	20:12	20:42
+20250313	"English"	"English self-study"	23	21:18	21:41
+20250314	"CBDA"	"CBDA Learning"	30	06:42	07:41
+20250314	"CBDA"	"CBDA Learning"	30	08:43	09:27
+20250314	"Spanish"	"Group Class"	50	12:10	13:00
+20250314	"CBDA"	"CBDA Learning"	30	20:44	21:14
+20250314	"English"	"English self-study"	14	21:24	21:39
+20250315	"CBDA"	"CBDA Learning"	24	08:54	09:18
+20250315	"Gym"	"Back day"	90	12:30	14:00
+20250315	"CBDA"	"CBDA Learning"	30	16:11	16:41
+20250315	"CBDA"	"CBDA Learning"	3	16:50	16:53
+20250315	"CBDA"	"CBDA Learning"	23	17:30	17:52
+20250315	"CBDA"	"CBDA Learning"	4	19:03	19:10
+20250315	"CBDA"	"CBDA Learning"	30	20:03	20:42
+20250315	"CBDA"	"CBDA Learning"	30	20:43	21:17
+20250315	"English"	"English self-study"	14	21:31	21:45
+20250316	"Gym"	"Shoulders Day"	90	13:30	15:00
+20250316	"LinkedIn Posts"	"Short Post"	30	16:30	17:00
+20250316	"Data Science"	"Statistics"	25	20:41	21:05
+20250316	"English"	"English self-study"	16	21:10	21:37
+20250318	"Data Science"	"Statistics"	30	 	 
+20250318	"Data Science"	"Statistics"	30	01:30	02:00
+20250318	"English"	"English self-study"	18	18:55	19:29
+20250319	"Gym"	"Chest Day"	60	08:36	09:36
+20250319	"Focus Work"	"Dataset Exploration Analysis"	10	15:48	15:58
+20250319	"English"	"English self-study"	27	21:07	21:36
+20250320	"Gym"	"Biceps/Triceps"	60	08:10	09:10
+20250320	"Focus Work"	"Dataset Exploration Analysis"	30	13:12	13:42
